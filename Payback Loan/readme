@@ -1,4 +1,5 @@
-1.Install the latest R studio
-2.Install packages ggplot2,tree,e1071
-3.copy the creditscoring.csv to your local drive and give its path inside read.csv.
+
+1.Install packages ggplot2,tree,e1071
+1.copy the creditscoring.csv to your local drive and give its path inside read.csv.
+1.Select all the code and run
 
