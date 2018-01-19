@@ -1,0 +1,19 @@
+To run kernel.r
+
+
+1.Install package geosphere
+2.copy the stations.csv and temps50k.csv to your local drive and give its path inside read.csv.
+3.Select all the code and run
+
+======================================================================================================
+
+To run neuralnet
+
+1.Install the package neuralnet
+2.Select all the code and run.
+
+
+
+
+
+
