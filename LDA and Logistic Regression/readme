@@ -1,4 +1,5 @@
 To run LDA and logit.r
 
 1.Install the packages ggplot2 and MASS
+2.copy the australian-crabs.csv to your local drive and give its path inside read.csv
 2.selct the code and click run
