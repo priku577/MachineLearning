@@ -6,7 +6,7 @@ To run Influenza.r
 
 ======================================================================
 
-To run nearest nearest_shrunken_centroid.R.r
+To run nearest_shrunken_centroid.R.r
 
 1.Install the package pamr
 2.copy the data.csv to your local drive and give its path inside read.csv
