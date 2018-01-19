@@ -8,6 +8,6 @@ To run Influenza.r
 
 To run nearest_shrunken_centroid.R.r
 
-1.Install the package pamr
+1.Install the packages pamr,glmnet,kernlab
 2.copy the data.csv to your local drive and give its path inside read.csv
 2.selct the code and click run
