@@ -1,0 +1,13 @@
+To run Influenza.r
+
+1.Install the packages ggplot2 and mgcv
+2.copy the Influenza.csv to your local drive and give its path inside read.csv
+2.selct the code and click run
+
+======================================================================
+
+To run nearest nearest_shrunken_centroid.R.r
+
+1.Install the package pamr
+2.copy the data.csv to your local drive and give its path inside read.csv
+2.selct the code and click run
