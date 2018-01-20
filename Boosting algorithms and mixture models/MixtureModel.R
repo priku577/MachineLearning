@@ -54,7 +54,7 @@ for(n in 1:1000){
   }
   
   #Log likelihood computation. #llik
-  # Your code here
+
   logL <- matrix(0, nrow = 1000, ncol = K)
   for(n in 1:1000){
     for(k in 1:K){
@@ -108,7 +108,7 @@ for(it in 1:max_it) {
   }
   
   #Log likelihood computation. #llik
-  # Your code here
+
   logL <- matrix(0, nrow = 1000, ncol = K)
   for(n in 1:1000){
     for(k in 1:K){
@@ -165,7 +165,7 @@ for(it in 1:max_it) {
   }
   
   #Log likelihood computation. #llik
-  # Your code here
+
   logL <- matrix(0, nrow = 1000, ncol = K)
   for(n in 1:1000){
     for(k in 1:K){
